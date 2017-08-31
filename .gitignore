@@ -72,7 +72,7 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# pyenv
+# pyen
 .python-version
 
 # celery beat schedule file
@@ -92,6 +92,9 @@ ENV/
 # Spyder project settings
 .spyderproject
 .spyproject
+
+# VS Code settings
+.vscode/
 
 # Rope project settings
 .ropeproject
